@@ -7,6 +7,7 @@ python3 env with PyVCF3 installed
 ### How to run
 
 python3 main.py vcf-file-path > output-file-path
+
 i.e.:
 python3 main.py test.chr22.ann.vcf > result.txt
 
